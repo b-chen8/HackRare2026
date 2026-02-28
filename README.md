@@ -1,1 +1,5 @@
 # HackRare2026
+
+Calendar to track symptoms and see if some symptoms are something to worry about or not.
+
+Users can open the app and create a new note describing first the symptom and some notes about how it is affecting them. They can jot down possible remedies that helped them. The app will have a function where it can create a graph of a certain symptom and its severity over time. This function will help the user determine if this symptom is recurring or something that they need to worry about. It can also help our users document whether or not a current treatment is helping and any side effects of getting that treatment to show to their healthcare provider. Gathering data mentally is very difficult to keep track of because it is hard to remember how something felt two weeks ago. But simply scrolling up the calendar to the date that a symptom first arrived or being able to show healthcare providers trends will better help users manage their illness and symptoms. Our main goal is to make documentation a little easier and create visualizers. 
